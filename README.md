@@ -1,3 +1,8 @@
+# Project Information
+
+This project covers topics like network request using https, and handling that request using basic RxJS.
+RxJS is a library commonly used along with angular to handle the data.
+
 # Wsearch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
